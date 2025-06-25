@@ -1,0 +1,6 @@
+Django
+djangorestframework
+requests
+beautifulsoup4
+pytest
+pytest-django

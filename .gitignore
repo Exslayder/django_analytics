@@ -1,0 +1,24 @@
+# Python
+venv
+env
+.pytest_cache
+.idea
+__pycache__
+
+# Django
+django_cache/
+
+# SQLite DB
+db.sqlite3
+
+# Variables
+*.env
+
+# Logs
+logs/
+*.log
+
+# Migration
+**/migrations/*.py
+!**/migrations/__init__.py
+**/migrations/*.pyc
