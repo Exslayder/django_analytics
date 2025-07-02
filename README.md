@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```
 4. **Примени миграции**
 ```bash
+python manage.py makemigrations products
 python manage.py migrate
 ```
 5. **Запусти сервер**
